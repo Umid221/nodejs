@@ -1,0 +1,15 @@
+[
+  {
+    "username": "walt",
+    "password": "$2b$10$ffO9lEdcqpNq73pOHxvs2O/2OIETBsgtk8R6daUlDakMI//wx2tiq"
+  },
+  {
+    "username": "walt",
+    "password": "$2b$10$lxrvzhk/sy.E32b61ufWa.Xm6V.tlLGxFOPUzzkL2/6H00Vda7S0a"
+  },
+  {
+    "username": "umid",
+    "password": "$2b$10$EQGQAasHb7BbZFPsoDcVt.gJyaaEjJtx1XqDY44.RJzcQdT37KZQS",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVtaWQiLCJpYXQiOjE2OTA2MzYyNDcsImV4cCI6MTY5MDcyMjY0N30.hr0vHri58JLeYoxd-Lbbq0OqXZ-yqRoSX568_D0Oa7c"
+  }
+]

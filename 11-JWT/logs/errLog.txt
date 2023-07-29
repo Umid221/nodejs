@@ -1,0 +1,3 @@
+20230721	10:18.18	5386e3f5-754c-42bb-a906-663bb8ab2219	TypeError:fsPromises.readFie is not a function
+20230721	10:18.24	35abaf41-c84f-4a9f-83a7-1690177ed1e9	TypeError:fsPromises.readFie is not a function
+20230722	13:48.29	d9b8d01e-3c59-4c27-9d30-375fa56da211	Error: not allowed by CORS
