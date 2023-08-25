@@ -116,3 +116,6 @@
 20230729	19:12.26	001ca6d7-d2b5-410e-b5bc-7da093987c83	POST	undefined	/employees
 20230729	19:12.32	7c7ede8f-1e33-412e-b56d-fe6a6c36ec80	POST	undefined	/employees
 20230729	19:12.41	76ffc0e4-d7b4-4be5-8d04-18940911d501	DELETE	undefined	/employees
+20230813	10:48.35	9e0e9c83-e20a-4f42-922d-adb63e3ae945	GET	undefined	/
+20230813	10:48.36	16c724ab-2ab5-4971-980a-807320776fe9	GET	undefined	/css/style.css
+20230813	10:48.37	15d22e9b-3346-4526-9f80-811876246f27	GET	undefined	/favicon.ico
